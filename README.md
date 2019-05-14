@@ -1,6 +1,9 @@
 ## Description 
 This a simple one component react app that view the most trending repositories in Github and support pagination
 
+## why React.Js?
+I am frontend developer who's experienced only with react and I like it because it allows creating reusable UI components and it's fast and simple I guess. 
+
 ## Available Scripts
 
 In the project directory, you can run:
