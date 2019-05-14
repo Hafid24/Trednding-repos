@@ -1,5 +1,5 @@
 ## Description 
-This a simple on component react app that view the most trending repositories in Github and support pagination
+This a simple one component react app that view the most trending repositories in Github and support pagination
 
 ## Available Scripts
 
