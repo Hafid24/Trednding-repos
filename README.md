@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description 
+This a simple on component react app that view the most trending repositories in Github and support pagination
 
 ## Available Scripts
 
